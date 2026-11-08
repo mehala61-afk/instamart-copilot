@@ -1,0 +1,15 @@
+question,expected,predicted,answer,source,score
+What delivery time makes a completed order eligible for a full refund?,refund_policy.txt,POLICY,"If a completed order is delivered in more than 45 minutes, the customer receives a full refund of the order amount.",refund_policy.txt,1.504
+Who must approve a refund above INR 1000?,refund_policy.txt,POLICY,A refund above INR 1000 must be approved by a human support lead before money is returned.,refund_policy.txt,1.6429
+How many days do I have to raise a refund request?,refund_policy.txt,POLICY,A refund request must be raised within 7 days of the delivery date.,refund_policy.txt,3.7262
+What is the delivery fee on small orders?,delivery_policy.txt,POLICY,"A delivery fee of INR 25 is charged on orders below INR 199, and delivery is free on orders of INR 199 or more.",delivery_policy.txt,1.375
+On orders of what value is delivery free?,delivery_policy.txt,POLICY,"A delivery fee of INR 25 is charged on orders below INR 199, and delivery is free on orders of INR 199 or more.",delivery_policy.txt,1.375
+Why does the electronics delivery need a one time password?,delivery_policy.txt,POLICY,Electronics items are delivered only after the customer shares a one time password with the rider.,delivery_policy.txt,3.0
+Is cash on delivery available for a large order?,payment_policy.txt,POLICY,Cash on delivery is available only for orders up to INR 2500.,payment_policy.txt,1.4583
+How soon is money returned when a payment fails but is deducted?,payment_policy.txt,POLICY,"If a payment fails but money is deducted, the amount is returned automatically within 48 hours.",payment_policy.txt,4.25
+Can wallet balance be refunded as cash?,payment_policy.txt,POLICY,Wallet balance can be used for any order and is never refunded as cash.,payment_policy.txt,3.0333
+When are delivery addresses deleted from active systems?,privacy_policy.txt,POLICY,Delivery addresses are deleted from active systems 180 days after the last order.,privacy_policy.txt,4.125
+How fast must a fraud ticket reach the security team?,escalation_policy.txt,POLICY,A ticket about fraud or an unauthorized transaction is marked high priority and sent to the security team within 2 hours.,escalation_policy.txt,3.3333
+After how many steps must an automated assistant hand over to a human?,escalation_policy.txt,POLICY,"If an automated assistant cannot resolve a ticket within 6 steps, it must hand the case to a human agent with a short summary.",escalation_policy.txt,4.0833
+What is the favourite colour of the company mascot?,NONE,NONE,NONE,,0
+Who won the cricket world cup final?,NONE,NONE,NONE,,0

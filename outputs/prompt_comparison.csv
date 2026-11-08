@@ -1,0 +1,3 @@
+prompt,classified,accuracy,total_tokens,tokens_per_classified
+zero_shot,147,0.8571428571428571,10024,68.19047619047619
+few_shot,147,1.0,18136,123.37414965986395

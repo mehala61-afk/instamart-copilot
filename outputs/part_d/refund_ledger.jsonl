@@ -1,0 +1,2 @@
+{"scenario_id": "S1", "order_id": "ORD-100048", "customer_id": "C0007", "refund_inr": 128.25, "status": "APPROVED", "timestamp": "2026-11-08T02:55:45.060492+00:00"}
+{"scenario_id": "S2", "order_id": "ORD-100067", "customer_id": "C0008", "refund_inr": 135.0, "status": "APPROVED", "timestamp": "2026-11-08T02:55:45.088069+00:00"}

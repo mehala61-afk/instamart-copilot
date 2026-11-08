@@ -1,0 +1,26 @@
+{
+  "chunk_count": 15,
+  "chunks_by_source": {
+    "delivery_policy.txt": 3,
+    "escalation_policy.txt": 3,
+    "payment_policy.txt": 3,
+    "privacy_policy.txt": 2,
+    "refund_policy.txt": 4
+  },
+  "overlap_10": {
+    "overlap": 10,
+    "answerable": 12,
+    "expected_doc_in_top_3": 12,
+    "expected_fact_in_answer": 12,
+    "unanswerable": 2,
+    "fallback": 2
+  },
+  "overlap_0": {
+    "overlap": 0,
+    "answerable": 12,
+    "expected_doc_in_top_3": 12,
+    "expected_fact_in_answer": 10,
+    "unanswerable": 2,
+    "fallback": 2
+  }
+}
